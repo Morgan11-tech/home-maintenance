@@ -1,0 +1,10 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+  # Background color of splash screen
+  color: "#ffffff"
+  # Image that you want to show
+  image: "assets/images/splash.png"
+  # Sizing of image
+  # fill: true

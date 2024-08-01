@@ -1,0 +1,46 @@
+name: home_maintenance
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  smooth_page_indicator: ^1.2.0
+  shared_preferences: ^2.2.3
+  carousel_slider: ^4.2.1
+  image_picker: ^1.1.2
+  firebase_storage: ^11.2.6
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.9.0
+  cloud_firestore: ^4.9.1
+  provider: ^6.1.2
+  lottie: ^2.6.0
+  iconsax: ^0.0.8
+  url_launcher: ^6.1.14
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/splash.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/images/
+  fonts:
+    - family: Inter Tight
+      fonts:
+        - asset: assets/fonts/InterTight-VariableFont_wght.ttf

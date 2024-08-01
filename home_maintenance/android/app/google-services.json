@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016869371155",
+    "project_id": "homely-91d0f",
+    "storage_bucket": "homely-91d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016869371155:android:c50eb7fd7f961c7c062ee6",
+        "android_client_info": {
+          "package_name": "com.example.home_maintenance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMk_rJyLEfkIZz64k47p57Xkjm6yaNkBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
